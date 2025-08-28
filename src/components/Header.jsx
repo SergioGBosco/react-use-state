@@ -1,9 +1,11 @@
 
 const Header = () => {
   return (
-    <div>
-      Questo è l'header del progetto
-    </div>
+    <header>
+      <div >
+        <h1>Learn Web development</h1>
+      </div>
+    </header>
   )
 }
 

@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background-color: #F8F9FA;
+  padding: 20px;
+}
+
+/* Button */
+
+.button {
+  color: white;
+  padding: 12px;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: #0D6EFD;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-100 {
+  width: 100%;
+}
+
+/* Main */
+main {
+  margin-top: 50px;
+}
+
+/* Card */
+
+.card-lenguage {
+  margin-top: 50px;
+  padding: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+}
+
+h4 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
